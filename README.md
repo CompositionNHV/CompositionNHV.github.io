@@ -1,14 +1,9 @@
-# Creative Theme for Jekyll
+# Composition NHV. A Time and Space Capsule
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+New Haven is a place with rich, complex history -- a story that deserves to be told and felt.
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+Composition NHV is a collaged time-and-space capsule of New Haven, integrating archival sources, video, audio, and sound, to build an immersive experience.
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+The project seeks to prompt questions, rather than deliver answers, about life here and possible futures. Using a collaged soundscape that layers sounds and views of the past and present, the installation is a representation and exploration of the tension between joy and loss, work and play, and growth and destruction.
 
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+The installation will live on virtually and in physical collage form as visitors will be able to contribute and create collages of their New Havens.
